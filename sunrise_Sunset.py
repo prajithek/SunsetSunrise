@@ -15,11 +15,7 @@ Longitude = getLoc.longitude
 
 
 #Parameters for API requests
-parameters = {
-	"lat" : Latitude,
-	"lng" : Longitude,
-	"formated" : 0,
-	}
+parameters = {"lat" : Latitude,"lng" : Longitude,"formatted" : 0,}
 
 
 #Using sunrise-Sunset API
